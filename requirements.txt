@@ -1,0 +1,3 @@
+cvzone
+cv2
+serial
